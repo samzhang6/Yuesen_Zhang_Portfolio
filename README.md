@@ -24,4 +24,7 @@ A house is usually the most important purchase of an individual’s lifetime. Wi
 ## Overview 
 To develop a machine learning model capable of predicting the probability of hospital admissions from ED with high accuracy. To identify and analyze the key predictors and features that significantly influence hospital admissions. To implement a real-time, user-friendly predictive tool for healthcare providers.
 
+# Project 5: [Identifying Inefficiencies in Medicare Healthcare Resource Utilisation and Costs](https://github.com/samzhang6/BA843-Final-Project)
 
+## Overview
+One of the biggest and most intricate sectors in the world, the healthcare sector has a vast number of players and moving elements. In the US, millions of people with needs are covered by the government-funded Medicare insurance program. In order to detect potential inefficiencies and consider solutions for lowering healthcare costs while preserving the quality of treatment, it is critical to examine how hospital resources are used and the cost of care for Medicare inpatients and outpatients.
